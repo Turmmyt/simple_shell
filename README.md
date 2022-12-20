@@ -7,7 +7,7 @@
 		### Description
 		
 
-		Ella and Alexxy Shell is a simple UNIX command interpreter that replicates functionalities of the simple shell (sh). Additional functions are also included. This program was written entirely in C as a milestone project for ALX Africa Software Engineering.
+		salami adeyinka andGoddey Bekee is a simple UNIX command interpreter that replicates functionalities of the simple shell (sh). Additional functions are also included. This program was written entirely in C as a milestone project for ALX Africa Software Engineering.
 		
 
 		### Installation
@@ -64,4 +64,5 @@
 		
 
 		All code written by salami adeyinka andGoddey Bekee
+
 
